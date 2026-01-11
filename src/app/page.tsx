@@ -3,7 +3,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-white">
       <main className="flex flex-col items-center justify-center px-8 text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-light leading-tight text-black mb-12 max-w-4xl" style={{ fontFamily: 'var(--font-inter)' }}>
-          Building <span className="bg-[#fff9c4] px-2 whitespace-nowrap">decision intelligence</span> for freight brokers to <span className="bg-[#fff9c4] px-2 whitespace-nowrap">avoid bad loads</span> before they happen
+          Building a system that helps desks<span className="bg-[#fff9c4] px-2 whitespace-nowrap">avoid repeat mistakes</span>before the next trade.
         </h1>
         
         <a
